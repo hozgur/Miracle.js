@@ -1,0 +1,16 @@
+{
+    "name": "NwJS API Samples",
+    "main": "index.html",
+    "window": {
+      "title": "p5js image demo",
+      "icon": "link.png",      
+      "frame": true,
+      "width": 800,
+      "height": 600,
+      "position": "center",
+      "min_width": 400,
+      "min_height": 200,
+      "max_width": 1800,
+      "max_height": 600
+    }
+  }
